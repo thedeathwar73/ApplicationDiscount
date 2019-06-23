@@ -13,9 +13,6 @@ import java.util.List;
 import javax.sql.DataSource;
 import java.sql.SQLException;
 
-
-
-
 public class DAO {
 
 	private final DataSource _source;
